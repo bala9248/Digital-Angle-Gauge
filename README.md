@@ -49,7 +49,7 @@ Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Fil
  
  5) Systick Timer to manage timing related activities
  
- # Demo Video:\
+ # Demo Video:
  The demo video is available in the Digital-Angle-Gauge/Supporting Files and Video/ folder in this repo.\
  Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Files%20and%20Video/Digital_Angle_Gauge_Demo.mp4
  NOTE: The wrong direction!!! comment on the UART is printed only because the current roll is lesser than the calibrated relative zero.\
