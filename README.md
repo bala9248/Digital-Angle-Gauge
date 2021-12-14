@@ -61,7 +61,7 @@ Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Fil
  of this repo.
  
  Test Plan - How testing was carried out for each item. Also, briefly includes happy cases testing, Error cases testing, Corner cases testing.\
- Test Results - Shows all the test results for various tests done for all peripherals.\
+ Test Results - Shows all the test results for various tests done for all peripherals.
  
  Test Plan Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Files%20and%20Video/Test%20Plan.pdf
  
