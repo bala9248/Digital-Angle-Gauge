@@ -51,6 +51,7 @@ Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Fil
  # Demo Video:
  The demo video is available in the Digital-Angle-Gauge/Supporting Files and Video/ folder in this repo.\
  Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Files%20and%20Video/Digital_Angle_Gauge_Demo.mp4
+    
  NOTE: The wrong direction!!! comment on the UART is printed only because the current roll is lesser than the calibrated relative zero.\
  In the real world, we would start from relative zero and progress towards the desired angle. Thus, Wrong Direction!!! won't be printed\
  in the real world while using the DAG.
