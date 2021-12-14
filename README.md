@@ -4,7 +4,7 @@
 
 Digital Angle Gauge (DAG) is a device used to set the saw blade angle in a wood shop. It is 
 stuck to the saw blade and the angle of the saw blade is adjusted until the value shown by 
-the DAG matches with the required value. 
+the DAG matches with the required value.\ 
 #Basic Functionality:
 
 1.  This DAG has a UART based command proccessor in its core
