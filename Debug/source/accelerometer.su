@@ -1,0 +1,2 @@
+accelerometer.c:49:5:init_mma	8	static
+accelerometer.c:66:5:read_roll	48	static

@@ -1,0 +1,7 @@
+core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+touch_sensor.c:31:6:Touch_Init	8	static
+touch_sensor.c:69:6:TSI0_IRQHandler	16	static
+touch_sensor.c:88:5:Touch_Scan_LH	24	static
+touch_sensor.c:110:6:reset_touch	24	static

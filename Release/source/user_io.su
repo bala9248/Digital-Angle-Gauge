@@ -1,0 +1,3 @@
+user_io.c:25:6:non_blocking_getchar	16	static
+libconfig-arm.h:247:5:__sys_write	16	static
+libconfig-arm.h:241:5:__sys_readc	16	static

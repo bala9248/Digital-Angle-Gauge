@@ -1,0 +1,7 @@
+cbfifo.c:59:6:clear_buffer	0	static
+cbfifo.c:77:6:cbfifo_isempty	8	static
+cbfifo.c:90:6:cbfifo_isfull	0	static
+cbfifo.c:109:8:cbfifo_enqueue	32	static
+cbfifo.c:211:8:cbfifo_length	0	static
+cbfifo.c:167:8:cbfifo_dequeue	40	static
+cbfifo.c:231:8:cbfifo_capacity	0	static

@@ -1,0 +1,7 @@
+Command_handler.c:84:6:command_line_interface	1064	static
+Command_handler.c:178:13:process_command	88	static
+Command_handler.c:238:13:handle_set	56	static
+Command_handler.c:337:13:handle_info	24	static
+Command_handler.c:365:13:handle_calibrate	24	static
+Command_handler.c:403:13:handle_author	16	static
+Command_handler.c:426:13:handle_help	24	static

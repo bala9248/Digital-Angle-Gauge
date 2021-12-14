@@ -1,0 +1,2 @@
+uart.c:36:6:Init_UART0	16	static
+uart.c:93:6:UART0_IRQHandler	24	static

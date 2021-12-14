@@ -1,0 +1,4 @@
+touch_sensor.c:31:6:Touch_Init	0	static
+touch_sensor.c:69:6:TSI0_IRQHandler	0	static
+touch_sensor.c:88:5:Touch_Scan_LH	0	static
+touch_sensor.c:110:6:reset_touch	0	static

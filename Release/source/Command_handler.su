@@ -1,0 +1,6 @@
+Command_handler.c:402:13:handle_author	8	static
+Command_handler.c:238:13:handle_set	40	static
+Command_handler.c:336:13:handle_info	8	static
+Command_handler.c:425:13:handle_help	16	static
+Command_handler.c:364:13:handle_calibrate	8	static
+Command_handler.c:84:6:command_line_interface	1104	static
