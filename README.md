@@ -28,8 +28,8 @@
 A detailed overview of the functionality is provided in the Functionality and Corner Cases.pdf in Digital-Angle-Gauge/Supporting Files and Video/Functionality and Corner     Cases.pdf\
 Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Files%20and%20Video/Functionality%20and%20Corner%20Cases.pdf
 
-#Technologies Used:\
- 1) Command Processor
+#Technologies Used:
+ 1) Command Processor\
        => Interrupt based UART\
        => Circular Buffer Fifo
  
