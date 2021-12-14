@@ -4,8 +4,9 @@
 
 Digital Angle Gauge (DAG) is a device used to set the saw blade angle in a wood shop. It is 
 stuck to the saw blade and the angle of the saw blade is adjusted until the value shown by 
-the DAG matches with the required value.\ 
-#Basic Functionality:
+the DAG matches with the required value. 
+
+# Basic Functionality:
 
 1.  This DAG has a UART based command proccessor in its core
 2.  Before accumulating the command in the command_line_interface(),
@@ -32,7 +33,7 @@ the DAG matches with the required value.\
 A detailed overview of the functionality is provided in the Functionality and Corner Cases.pdf in Digital-Angle-Gauge/Supporting Files and Video/Functionality and Corner     Cases.pdf\
 Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Files%20and%20Video/Functionality%20and%20Corner%20Cases.pdf
 
-#Technologies Used:
+# Technologies Used:
  1) Command Processor\
        => Interrupt based UART\
        => Circular Buffer Fifo
@@ -48,14 +49,14 @@ Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Fil
  
  5) Systick Timer to manage timing related activities
  
- #Demo Video:\
+ # Demo Video:\
  The demo video is available in the Digital-Angle-Gauge/Supporting Files and Video/ folder in this repo.\
  Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Files%20and%20Video/Digital_Angle_Gauge_Demo.mp4
  NOTE: The wrong direction!!! comment on the UART is printed only because the current roll is lesser than the calibrated relative zero.\
  In the real world, we would start from relative zero and progress towards the desired angle. Thus, Wrong Direction!!! won't be printed\
  in the real world while using the DAG.
  
- #Testing:
+ # Testing:
  Automatic, Semi-Automatic, and Manual tests were performed. More on this in the "Digital-Angle-Gauge/Supporting Files and Video/" folder
  of this repo.
  
@@ -65,7 +66,7 @@ Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Fil
  Test Plan Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Files%20and%20Video/Test%20Plan.pdf
  Test Results link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Files%20and%20Video/Test%20Results.pdf
  
- #Corner Cases:
+ # Corner Cases:
  Various Corner cases were handled. All the corner cases that were handled are written in the Functionality and Corner Cases.pdf\
  in the "Digital-Angle-Gauge/Supporting Files and Video/" folder of this repo.
  Corner Cases link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Files%20and%20Video/Functionality%20and%20Corner%20Cases.pdf
