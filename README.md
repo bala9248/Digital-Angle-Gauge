@@ -55,6 +55,8 @@ Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Fil
  NOTE: The wrong direction!!! comment on the UART is printed only because the current roll is lesser than the calibrated relative zero.\
  In the real world, we would start from relative zero and progress towards the desired angle. Thus, Wrong Direction!!! won't be printed\
  in the real world while using the DAG.
+ The Wrong Direction!!! is printed as a way to indicate to the user that they are moving the DAG in the opposite direction. In other words,\
+ If the current roll is lesser than the relative zero, "Wrong Direction!!!" is printed.
  
  # Testing:
  Automatic, Semi-Automatic, and Manual tests were performed. More on this in the "Digital-Angle-Gauge/Supporting Files and Video/" folder
