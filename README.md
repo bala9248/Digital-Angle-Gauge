@@ -1,9 +1,13 @@
 # Digital Angle Gauge (DAG)
  Code for PES Final Project. Fall - 2021
 
+
+Digital Angle Gauge (DAG) is a device used to set the saw blade angle in a wood shop. It is 
+stuck to the saw blade and the angle of the saw blade is adjusted until the value shown by 
+the DAG matches with the required value. 
 #Basic Functionality:
 
-1.  This DAG has a UART based command proccessor in its core/
+1.  This DAG has a UART based command proccessor in its core
 2.  Before accumulating the command in the command_line_interface(),
     I have written my own non blocking get char function which will
     allow for other functionality while accumulating a line buffer.
