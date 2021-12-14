@@ -1,5 +1,4 @@
 # Digital Angle Gauge (DAG)
- Code for PES Final Project. Fall - 2021
 
 
 Digital Angle Gauge (DAG) is a device used to set the saw blade angle in a wood shop. It is 
