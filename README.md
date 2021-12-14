@@ -52,7 +52,7 @@ Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Fil
  in the real world while using the DAG.
  
  #Testing:
- Automatic, Semi-Automatic, and Manual tests were performed. More on this in the "Digital-Angle-Gauge/Supporting Files and Video/" folder\
+ Automatic, Semi-Automatic, and Manual tests were performed. More on this in the "Digital-Angle-Gauge/Supporting Files and Video/" folder
  of this repo.
  Test Plan - How testing was carried out for each item. Also, briefly includes happy cases testing, Error cases testing, Corner cases testing.\
  Test Results - Shows all the test results for various tests done for all peripherals.\
@@ -63,6 +63,5 @@ Link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Fil
  #Corner Cases:
  Various Corner cases were handled. All the corner cases that were handled are written in the Functionality and Corner Cases.pdf\
  in the "Digital-Angle-Gauge/Supporting Files and Video/" folder of this repo.
- 
- 
+ Corner Cases link: https://github.com/bala9248/Digital-Angle-Gauge/blob/main/Supporting%20Files%20and%20Video/Functionality%20and%20Corner%20Cases.pdf
  
