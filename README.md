@@ -4,12 +4,12 @@
 #Basic Functionality:
 
 1.  This DAG has a UART based command proccessor in its core/
-2.  Before accumulating the command in the command_line_interface(),/
-    I have written my own non blocking get char function which will/
-    allow for other functionality while accumulating a line buffer./
-    This other functionality is checking if the DAG is perfectly flat/
-    on the table. If the DAG is flat, RED LED is lit. Otherwise the color/
-    is varied using PWM./
+2.  Before accumulating the command in the command_line_interface(),
+    I have written my own non blocking get char function which will
+    allow for other functionality while accumulating a line buffer.
+    This other functionality is checking if the DAG is perfectly flat
+    on the table. If the DAG is flat, RED LED is lit. Otherwise the color
+    is varied using PWM.
     
 3.  After taking a command as an input, the command is processed. The 
     following commands are supported by the command processor.
